@@ -1,0 +1,42 @@
+
+html {
+  font-size: 14px;
+  background-color: darkgrey;
+}
+
+header{
+    background-color: lightgray;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+  background-color:darkgray;
+}
+
+body {
+  margin-bottom: 60px;
+  background-color: lightgray;
+}
+.questionBlock
+    {
+     border: dotted 2px black;
+     width: 50%;
+    
+    }
+#TaskThirdSolution {
+    display:flex;
+}
+#N{
+    margin-left
+}
+/*#RightColumn{
+    margin-left: 40%;
+    margin-top: 0%;
+}
+*/
